@@ -1,0 +1,8 @@
+corridor_id,corridor_name,model_name,training_strategy,forecast_type,year,prediction,lower_bound,upper_bound
+2,Houston_to_Atlanta,ARIMA,leave_last_year_out,holdout,2024,29.44699,27.62630848006577,31.26767151993423
+2,Houston_to_Atlanta,ARIMA,leave_last_year_out,future,2025,30.657740000000004,28.873010268512335,32.44246973148768
+2,Houston_to_Atlanta,ARIMA,leave_last_year_out,future,2026,30.657740000000004,28.13375100853938,33.18172899146063
+2,Houston_to_Atlanta,ARIMA,leave_last_year_out,future,2027,30.657740000000004,27.5664974272515,33.74898257274851
+2,Houston_to_Atlanta,ARIMA,leave_last_year_out,future,2028,30.657740000000004,27.088280536981667,34.227199463018344
+2,Houston_to_Atlanta,ARIMA,leave_last_year_out,future,2029,30.657740000000004,26.66696299887735,34.648517001122656
+2,Houston_to_Atlanta,ARIMA,leave_last_year_out,future,2030,30.657740000000004,26.28606282902227,35.02941717097774

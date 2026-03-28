@@ -1,0 +1,8 @@
+corridor_id,corridor_name,model_name,training_strategy,forecast_type,year,prediction,lower_bound,upper_bound
+4,Dallas_to_Memphis,ARIMA,leave_last_year_out,holdout,2024,75.330516,71.41454364168868,79.24648835831132
+4,Dallas_to_Memphis,ARIMA,leave_last_year_out,future,2025,78.125907,74.25582364926878,81.99599035073122
+4,Dallas_to_Memphis,ARIMA,leave_last_year_out,future,2026,78.125907,72.65278263786914,83.59903136213086
+4,Dallas_to_Memphis,ARIMA,leave_last_year_out,future,2027,78.125907,71.42272600698678,84.82908799301322
+4,Dallas_to_Memphis,ARIMA,leave_last_year_out,future,2028,78.125907,70.38574029851114,85.86607370148886
+4,Dallas_to_Memphis,ARIMA,leave_last_year_out,future,2029,78.125907,69.47213754914333,86.77967645085667
+4,Dallas_to_Memphis,ARIMA,leave_last_year_out,future,2030,78.125907,68.64617752863197,87.60563647136803

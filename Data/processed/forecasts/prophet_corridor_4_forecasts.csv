@@ -1,0 +1,8 @@
+corridor_id,corridor_name,model_name,training_strategy,forecast_type,year,prediction,lower_bound,upper_bound
+4,Dallas_to_Memphis,Prophet,leave_last_year_out,holdout,2024,79.7688823271158,79.09593041537458,80.4776098080577
+4,Dallas_to_Memphis,Prophet,leave_last_year_out,future,2025,81.39540725164167,80.87880530282982,81.88964738560908
+4,Dallas_to_Memphis,Prophet,leave_last_year_out,future,2026,84.05161642467145,82.23246374586323,85.75335482867398
+4,Dallas_to_Memphis,Prophet,leave_last_year_out,future,2027,86.70782559770123,83.15606880399247,90.20209549176059
+4,Dallas_to_Memphis,Prophet,leave_last_year_out,future,2028,89.36403477073101,83.96195623912583,95.23428631025251
+4,Dallas_to_Memphis,Prophet,leave_last_year_out,future,2029,92.01396113027118,84.39835765991324,100.29881399326759
+4,Dallas_to_Memphis,Prophet,leave_last_year_out,future,2030,94.67017030330098,84.56268149216437,105.62253493407557

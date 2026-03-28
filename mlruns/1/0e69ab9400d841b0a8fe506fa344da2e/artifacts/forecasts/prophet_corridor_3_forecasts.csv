@@ -1,0 +1,8 @@
+corridor_id,corridor_name,model_name,training_strategy,forecast_type,year,prediction,lower_bound,upper_bound
+3,NYC_to_Miami,Prophet,leave_last_year_out,holdout,2024,13.337540907877303,13.290230270026298,13.39475962063911
+3,NYC_to_Miami,Prophet,leave_last_year_out,future,2025,13.648111871682282,13.528709981578391,13.764035702469407
+3,NYC_to_Miami,Prophet,leave_last_year_out,future,2026,13.8496361196596,13.446826825962411,14.233686139886034
+3,NYC_to_Miami,Prophet,leave_last_year_out,future,2027,14.051160367636918,13.208447892241766,14.84555430371609
+3,NYC_to_Miami,Prophet,leave_last_year_out,future,2028,14.252684615614237,12.901820601254464,15.55332982464765
+3,NYC_to_Miami,Prophet,leave_last_year_out,future,2029,14.453331431939677,12.595094987734685,16.285045031547906
+3,NYC_to_Miami,Prophet,leave_last_year_out,future,2030,14.654855679916997,12.114680523999603,16.99648530739246

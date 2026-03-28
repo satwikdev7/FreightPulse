@@ -1,0 +1,8 @@
+corridor_id,corridor_name,model_name,training_strategy,forecast_type,year,prediction,lower_bound,upper_bound
+1,LA_to_Chicago,Prophet,leave_last_year_out,holdout,2024,1135.48981405552,1133.2138108049721,1137.9397344369143
+1,LA_to_Chicago,Prophet,leave_last_year_out,future,2025,1176.7804454045508,1166.1911282548176,1185.7615626010452
+1,LA_to_Chicago,Prophet,leave_last_year_out,future,2026,1194.8696450438706,1161.0783023717136,1225.6919411229865
+1,LA_to_Chicago,Prophet,leave_last_year_out,future,2027,1212.95884468319,1152.393177330615,1273.392698511079
+1,LA_to_Chicago,Prophet,leave_last_year_out,future,2028,1231.0480443225097,1134.537710929749,1329.2028533410755
+1,LA_to_Chicago,Prophet,leave_last_year_out,future,2029,1249.1361647079148,1107.5699293057075,1383.917055039045
+1,LA_to_Chicago,Prophet,leave_last_year_out,future,2030,1267.2253643472345,1073.663854371227,1451.8849735870335
